@@ -40,5 +40,6 @@ Report_Document.pdf	The final business report summarizing findings and recommend
 Data Source & Availability:
 The primary dataset used for this analysis (Resume.csv) is not included in this repository due to its large size (approx. 66 MB, mainly due to the unstructured text columns).
 
-The original dataset can be downloaded from the source:
-Kaggle Resume Dataset
+The primary dataset used for this project is hosted on Kaggle. For full reproducibility, please download the original file:
+
+[Resume Dataset - Kaggle](https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset)
